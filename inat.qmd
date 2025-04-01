@@ -1,26 +1,11 @@
 ---
-title: "Participate"
+title: "Join Us!"
 format: html
 editor: visual
 ---
 
-## Quarto
+## How to Participate:
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+1.  **Create an iNaturalist account (if you do not have one already)**
+2.  **Record photos or audio of wild organisms in Marquette County during the observation period (April 25-28th)**
+3.  **Upload to iNaturalist via the app or website Repeat steps 2-3 (and attend group observation events!\*)**
