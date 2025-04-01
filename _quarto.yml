@@ -5,7 +5,7 @@ website:
   title: ""
   navbar:
     search: TRUE
-    logo: images/CNC-Logo.png
+    logo: images/CNC_Logo2.avif
     left:
       - href: index.qmd
         text: Home
@@ -15,7 +15,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: custom
     css: styles.css
     toc: true
 
