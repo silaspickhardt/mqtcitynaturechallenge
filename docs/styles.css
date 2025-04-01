@@ -1,0 +1,19 @@
+/* css styles */
+
+ .navbar-brand > img {
+          width: auto; /* Fill the container */
+          height: auto; /* Maintain aspect ratio */
+        }
+ .navbar {
+    background-color: #093;
+  }      
+ a {
+      color: #093; /* Set a custom blue color */
+      text-decoration: underline;
+      ;/* Remove underline by default */
+    }
+
+    a:hover {
+      text-decoration: none; /* Add underline on hover */
+      color: #001; /* Darken the color on hover */
+    }        

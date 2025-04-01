@@ -7,13 +7,6 @@
     "text": "Welcome to the Marquette City Nature Challenge!\n\nWhat is the City Nature Challenge?\nIt is an event when cities all over the world document their local biodiversity on iNaturalist. In 2024, 690 cities/counties from 51 different countries joined the challenge. This year Marquette will be apart of this amazing event!\n\n\nWhen is the City Nature Challenge(CNC) in 2025?\nThis year, the CNC will run from April 25-28th!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "inat.html",
     "href": "inat.html",
     "title": "Participate",
@@ -33,5 +26,12 @@
     "title": "Participate",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
