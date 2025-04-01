@@ -2,11 +2,15 @@ project:
   type: website
 
 website:
-  title: "cncwebsite"
+  title: ""
   navbar:
+    search: TRUE
+    logo: images/CNC-Logo.png
     left:
       - href: index.qmd
         text: Home
+      - href: inat.qmd
+        text: Participate
       - about.qmd
 
 format:

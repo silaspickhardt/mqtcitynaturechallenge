@@ -1,11 +1,13 @@
----
-title: "cncwebsite"
----
+![](images/banner.png)
 
-This is a Quarto website.
+## Welcome to the Marquette City Nature Challenge!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+#### What is the City Nature Challenge?
 
-```{r}
-1 + 1
-```
+It is an event when cities all over the world document their local biodiversity on iNaturalist. In 2024, 690 cities/counties from 51 different countries joined the challenge. This year Marquette will be apart of this amazing event!
+
+#### When is the City Nature Challenge(CNC) in 2025?
+
+This year, the CNC will run from **April 25-28th!**
+
+[participate](inat.qmd)
