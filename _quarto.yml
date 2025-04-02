@@ -7,11 +7,13 @@ website:
   navbar:
     search: TRUE
     logo: images/CNC_Logo2.avif
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: inat.qmd
         text: Participate
+      - href: events.qmd
+        text: Events
       - about.qmd
 
 format:
