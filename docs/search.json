@@ -7,25 +7,11 @@
     "text": "Welcome to the Marquette City Nature Challenge!\n\nWhat is the City Nature Challenge?\nIt is an event when cities all over the world document their local biodiversity on iNaturalist. In 2024, 690 cities/counties from 51 different countries joined the challenge. This year Marquette will be apart of this amazing event!\n\n\nWhen is the City Nature Challenge(CNC) in 2025?\nThis year, the CNC will run from April 25-28th!"
   },
   {
-    "objectID": "inat.html",
-    "href": "inat.html",
-    "title": "Join Us!",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "Create an iNaturalist account (if you do not have one already)\nRecord photos or audio of wild organisms in Marquette County during the observation period (April 25-28th)\nUpload to iNaturalist via the app or website Repeat steps 2-3 (and attend group observation events!*)"
-  },
-  {
-    "objectID": "inat.html#quarto",
-    "href": "inat.html#quarto",
-    "title": "Participate",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "inat.html#running-code",
-    "href": "inat.html#running-code",
-    "title": "Participate",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+    "text": "Schedule of events:"
   },
   {
     "objectID": "about.html",
@@ -35,17 +21,31 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "inat.html",
+    "href": "inat.html",
+    "title": "Join Us!",
+    "section": "",
+    "text": "Create an iNaturalist account (if you do not have one already)\nJoin the Marquette City Nature Challenge Project\nRecord photos or audio of wild organisms in Marquette County during the observation period (April 25-28th)\nUpload to iNaturalist via the app or website Repeat steps 2-3 (and attend group observation events!*)"
+  },
+  {
     "objectID": "inat.html#how-to-participate",
     "href": "inat.html#how-to-participate",
     "title": "Join Us!",
     "section": "",
-    "text": "Create an iNaturalist account (if you do not have one already)\nRecord photos or audio of wild organisms in Marquette County during the observation period (April 25-28th)\nUpload to iNaturalist via the app or website Repeat steps 2-3 (and attend group observation events!*)"
+    "text": "Create an iNaturalist account (if you do not have one already)\nJoin the Marquette City Nature Challenge Project\nRecord photos or audio of wild organisms in Marquette County during the observation period (April 25-28th)\nUpload to iNaturalist via the app or website Repeat steps 2-3 (and attend group observation events!*)"
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Events",
-    "section": "",
-    "text": "Schedule of events:"
+    "objectID": "inat.html#volunteer",
+    "href": "inat.html#volunteer",
+    "title": "Join Us!",
+    "section": "Volunteer!",
+    "text": "Volunteer!\nDo you have experience with identifying things in nature? Come help teach others! Sign up to volunteer at an event HERE!"
+  },
+  {
+    "objectID": "inat.html#host-an-event",
+    "href": "inat.html#host-an-event",
+    "title": "Join Us!",
+    "section": "Host an Event",
+    "text": "Host an Event\nInterested in hosting an event as an organization? Please fill out this interest form!"
   }
 ]

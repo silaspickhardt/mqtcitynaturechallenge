@@ -15,7 +15,6 @@ website:
       - href: events.qmd
         text: Events
       - about.qmd
-
 format:
   html:
     theme: custom

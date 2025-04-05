@@ -1,14 +1,24 @@
 /* css styles */
-
+@font-face {
+  font-family: BasicSans;
+  src: url(fonts/Basic_Sans_Black.otf);
+  }
+div {
+  font-family: BasicSans;
+}
+.footer > * {
+	background-color:#07874B;
+	color: black;
+}
  .navbar-brand > img {
-          width: auto; /* Fill the container */
+          width: 100%; /* Fill the container */
           height: auto; /* Maintain aspect ratio */
         }
  .navbar {
-    background-color: #093;
-  }      
- a {
-      color: #093; /* Set a custom blue color */
+    background-color: #07874B;
+    }     
+a {
+      color: #07874B; /* Set a custom blue color */
       text-decoration: underline;
       ;/* Remove underline by default */
     }
