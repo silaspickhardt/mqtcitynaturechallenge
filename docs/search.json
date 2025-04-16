@@ -39,7 +39,7 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Click on an event to learn more/RSVP\n*denotes limited attendances on a first come first serve basis\n\n\n\nTime\nApril 25\nApril 26\nApril 27\nApril 28\n\n\n\n\n8 am\nBird Walk TBD\nHarlow Lake Bird Walk\nBird Walk TBD\nBird Walk TBD\n\n\n9 am\n\n\n\n\n\n\n10 am\n\nHarlow Lake Aquatic Invertebrates\nMoosewood Nature Center\n\n\n\n\n11 am\n\nHarlow Lake Plants, Fungi, Lichens\nMoosewood Nature Center\n\n\n\n\n12 pm\n\nMoosewood Nature Center\n\n\n\n\n1 pm\n\nMoosewood Nature Center\n\n\n\n\n2 pm\nCons Bio\n\n\n\n\n\n3 pm\nCons Bio\n\n\n\n\n\n4 pm\nCons Bio\n\n\n\n\n\n5 pm\n\n\n\n\n\n\n6 pm\n\n\n\n\n\n\n7 pm\n\n\n\n\n\n\n8 pm"
+    "text": "Click on an event to learn more/RSVP\n*denotes limited attendances on a first come first serve basis\n\n\n\nTime\nApril 25\nApril 26\nApril 27\nApril 28\n\n\n\n\n8 am\nBird Walk TBD\nHarlow Lake Bird Walk\nBird Walk TBD\nBird Walk TBD\n\n\n9 am\n\n\n\n\n\n\n10 am\n\nHarlow Aquatic Invertebrates\nMoosewood Nature Center\n\n\n\n\n11 am\n\nHarlow Lake Plants, Fungi, Lichens\nMoosewood Nature Center\nCompeau Creek Hawk Walk\n\n\n\n12 pm\n\nMoosewood Nature Center\nHawk Walk\n\n\n\n1 pm\n\nMoosewood Nature Center\n\nNMU Clean up/ID\n\n\n2 pm\nCons Bio\n\n\n\n\n\n3 pm\nCons Bio\n\nDead River Aquatic invertebrates\n\n\n\n4 pm\nCons Bio\n\nDead River\n\n\n\n5 pm\n\n\n\n\n\n\n6 pm\n\n\n\n\n\n\n7 pm\n\n\n\n\n\n\n8 pm\nMoosewood Nighttime ecology"
   },
   {
     "objectID": "about.html",
@@ -51,7 +51,7 @@
   {
     "objectID": "index.html#welcome-to-the-marquette-city-nature-challenge",
     "href": "index.html#welcome-to-the-marquette-city-nature-challenge",
-    "title": "Participate!",
+    "title": "",
     "section": "Welcome to the Marquette City Nature Challenge!",
     "text": "Welcome to the Marquette City Nature Challenge!\n\nWhat is the City Nature Challenge?\nIt is an event when cities all over the world document their local biodiversity on iNaturalist. In 2024, 690 cities/counties from 51 different countries joined the challenge. This year Marquette will be a part of this amazing event!\n\n\nWhen is the City Nature Challenge(CNC) in 2025?\nThis year, the CNC will run from April 25-28th!"
   },
@@ -65,8 +65,15 @@
   {
     "objectID": "index.html#additional-resources",
     "href": "index.html#additional-resources",
-    "title": "Participate!",
+    "title": "",
     "section": "Additional resources",
-    "text": "Additional resources\nFrequently Asked Questions\nGlobal Description"
+    "text": "Additional resources\nVisit the City Nature Challenge Global Page to learn more\nFrequently Asked Questions\nDescription"
+  },
+  {
+    "objectID": "index.html#participate",
+    "href": "index.html#participate",
+    "title": "",
+    "section": "Participate!",
+    "text": "Participate!"
   }
 ]
