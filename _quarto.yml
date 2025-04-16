@@ -8,7 +8,7 @@ website:
     search: TRUE
     logo: images/CNC_Logo2.avif
     right:
-      - href: home.qmd
+      - href: index.qmd
         text: Home
       - href: participate.qmd
         text: Participate

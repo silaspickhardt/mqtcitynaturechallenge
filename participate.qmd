@@ -11,6 +11,10 @@ editor: visual
 3.  **Record photos or audio of wild organisms in Marquette County during the observation period (April 25-28th)**
 4.  **Upload to iNaturalist via the app or website Repeat steps 2-3 (and attend group observation events!\*)**
 
+## New to iNaturalist?
+
+[Click here](https://inaturalist.freshdesk.com/en/support/solutions/folders/151000552105) to get started!
+
 ## Volunteer!
 
 Do you have experience with identifying things in nature? Come help teach others; Sign up to volunteer at an event [HERE!](https://forms.gle/MA3gvFaPDroDoiym8)
