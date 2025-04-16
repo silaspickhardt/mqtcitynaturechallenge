@@ -14,6 +14,13 @@
     "text": "Create an iNaturalist account (if you do not have one already)\nJoin the Marquette City Nature Challenge Project\nRecord photos or audio of wild organisms in Marquette County during the observation period (April 25-28th)\nUpload to iNaturalist via the app or website Repeat steps 2-3 (and attend group observation events!*)"
   },
   {
+    "objectID": "participate.html#new-to-inaturalist",
+    "href": "participate.html#new-to-inaturalist",
+    "title": "Join Us!",
+    "section": "New to iNaturalist?",
+    "text": "New to iNaturalist?\nClick here to get started!"
+  },
+  {
     "objectID": "participate.html#volunteer",
     "href": "participate.html#volunteer",
     "title": "Join Us!",
@@ -32,27 +39,34 @@
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "Click on an event to learn more/RSVP\n*denotes limited attendances on a first come first serve basis\n\n\n\nTime\nApril 25\nApril 26\nApril 27\nApril 28\n\n\n\n\n8 am\nBird Walk TBD\nHarlow Lake Bird Walk\nBird Walk TBD\nBird Walk TBD\n\n\n9 am\n\nHarlow Lake\nMoosewood Nature Center\n\n\n\n\n10 am\n\nHarlow Lake\nMoosewood Nature Center\n\n\n\n\n11 am\n\nHarlow Lake\nMoosewood Nature Center\n\n\n\n\n12 pm\n\nMoosewood Nature Center\n\n\n\n\n1 pm\n\nMoosewood Nature Center\n\n\n\n\n2 pm\nCons Bio\n\n\n\n\n\n3 pm\nCons Bio\n\n\n\n\n\n4 pm\nCons Bio\n\n\n\n\n\n5 pm\n\n\n\n\n\n\n6 pm\n\n\n\n\n\n\n7 pm\n\n\n\n\n\n\n8 pm"
+    "text": "Click on an event to learn more/RSVP\n*denotes limited attendances on a first come first serve basis\n\n\n\nTime\nApril 25\nApril 26\nApril 27\nApril 28\n\n\n\n\n8 am\nBird Walk TBD\nHarlow Lake Bird Walk\nBird Walk TBD\nBird Walk TBD\n\n\n9 am\n\n\n\n\n\n\n10 am\n\nHarlow Lake Aquatic Invertebrates\nMoosewood Nature Center\n\n\n\n\n11 am\n\nHarlow Lake Plants, Fungi, Lichens\nMoosewood Nature Center\n\n\n\n\n12 pm\n\nMoosewood Nature Center\n\n\n\n\n1 pm\n\nMoosewood Nature Center\n\n\n\n\n2 pm\nCons Bio\n\n\n\n\n\n3 pm\nCons Bio\n\n\n\n\n\n4 pm\nCons Bio\n\n\n\n\n\n5 pm\n\n\n\n\n\n\n6 pm\n\n\n\n\n\n\n7 pm\n\n\n\n\n\n\n8 pm"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "City Nature Challenge is globally organized by the Natural History Museum of Los Angeles County and the California Academy of the Sciences.\n\n\nLocally, CNC was organized by a team of NMU faculty and undergraduate students."
   },
   {
-    "objectID": "home.html#welcome-to-the-marquette-city-nature-challenge",
-    "href": "home.html#welcome-to-the-marquette-city-nature-challenge",
+    "objectID": "index.html#welcome-to-the-marquette-city-nature-challenge",
+    "href": "index.html#welcome-to-the-marquette-city-nature-challenge",
     "title": "Participate!",
     "section": "Welcome to the Marquette City Nature Challenge!",
-    "text": "Welcome to the Marquette City Nature Challenge!\n\nWhat is the City Nature Challenge?\nIt is an event when cities all over the world document their local biodiversity on iNaturalist. In 2024, 690 cities/counties from 51 different countries joined the challenge. This year Marquette will be apart of this amazing event!\n\n\nWhen is the City Nature Challenge(CNC) in 2025?\nThis year, the CNC will run from April 25-28th!"
+    "text": "Welcome to the Marquette City Nature Challenge!\n\nWhat is the City Nature Challenge?\nIt is an event when cities all over the world document their local biodiversity on iNaturalist. In 2024, 690 cities/counties from 51 different countries joined the challenge. This year Marquette will be a part of this amazing event!\n\n\nWhen is the City Nature Challenge(CNC) in 2025?\nThis year, the CNC will run from April 25-28th!"
   },
   {
-    "objectID": "home.html#visit-the-city-nature-challenge-global-page-to-learn-more",
-    "href": "home.html#visit-the-city-nature-challenge-global-page-to-learn-more",
+    "objectID": "index.html#visit-the-city-nature-challenge-global-page-to-learn-more",
+    "href": "index.html#visit-the-city-nature-challenge-global-page-to-learn-more",
     "title": "Participate!",
     "section": "Visit the City Nature Challenge Global Page to learn more",
     "text": "Visit the City Nature Challenge Global Page to learn more"
+  },
+  {
+    "objectID": "index.html#additional-resources",
+    "href": "index.html#additional-resources",
+    "title": "Participate!",
+    "section": "Additional resources",
+    "text": "Additional resources\nFrequently Asked Questions\nGlobal Description"
   }
 ]

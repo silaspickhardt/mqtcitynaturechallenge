@@ -2,14 +2,8 @@
 title: "About"
 ---
 
-## About
+#### City Nature Challenge is globally organized by the Natural History Museum of Los Angeles County and the California Academy of the Sciences.
 
-City Nature Challenge is globally organized by the Natural History Museum of Los Angeles County and the California Academy of the Sciences.
+#### Locally, CNC was organized by a team of NMU faculty and undergraduate students.
 
-Locally, CNC was organized by a team of NMU faculty and undergraduates.
-
-![](images/CNC20_OrganizedLockup_FULL.jpg){width="179"}
-
-![](images/NMU.jpg){width="174"}
-
-[![](images/MCD.jpg){width="172"}](https://marquettecd.com/)
+[![](images/CNC20_OrganizedLockup_FULL.jpg){width="179"}](https://www.citynaturechallenge.org/) ![](images/NMU.jpg){width="174"} [![](images/MCD.jpg){width="172"}](https://marquettecd.com/)
