@@ -26,4 +26,12 @@ a {
     a:hover {
       text-decoration: none; /* Add underline on hover */
       color: #001; /* Darken the color on hover */
-    }        
+    }     
+    
+ .my-box {
+     border: 1px solid black; 
+     padding: 0px;
+     margin: 0px; 
+     border-radius: 2px; 
+     text-align: center;
+    }    
