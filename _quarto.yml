@@ -16,7 +16,8 @@ website:
         text: Events
       - href: Past_Years.qmd
         text: Past Years
-      - about.qmd
+      - href: Partnerships.qmd
+        text: Partnerships
 format:
   html:
     theme: custom
