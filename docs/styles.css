@@ -5,6 +5,11 @@
   }
 div {
   font-family: BasicSans;
+  
+  
+}
+body {
+  background-color: blue;
 }
 .footer > * {
 	background-color:#07874B;
