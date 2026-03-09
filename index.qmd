@@ -8,7 +8,7 @@ The City Nature Challenge (CNC) is an annual four-day nature census in which par
 
 #### When is the City Nature Challenge(CNC) in 2026?
 
-This year, the CNC observation period will be **April 24-27th!** Then we will have until **May 10th** to upload observations and identify organisims.
+This year, the CNC observation period will be **April 24-27th!** Then we will have until **May 10th** to upload observations and identify organisms.
 
 ## [Participate!](participate.qmd)
 
