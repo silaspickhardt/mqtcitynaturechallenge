@@ -1,0 +1,85 @@
+---
+title: "Past Years"
+format: html
+editor: visual
+lightbox: true
+---
+
+Picture from last year!
+
+![Observation event with the Conservation Biology class at NMU](images/2025/2025_images/Copy%20of%20Marquette_Michigan_USA_OwenVanAntwerpen.JPG){fig-align="center" width="160"}
+
+![Observation event at the Presque Isle Bog](images/2025/2025_images/bog.JPG){fig-align="center" width="160"}
+
+![Observation event at Harlow Lake with the Marquette County Conservation District](images/2025/2025_images/macro.JPG){fig-align="center" width="160"}
+
+```{r}
+#| label: inat_barchart
+#| echo: false
+#| message: false
+#| warning: false
+
+library(tidyverse)
+
+mqt <- read_csv("graphs/mqt_inat.csv") |>
+  filter(quality_grade != "casual") |>
+   group_by(iconic_taxon_name) |> 
+  summarise(mqt_count = n()) |>
+  na.omit() |>
+  arrange(desc(mqt_count)) #add that I made it and got data from iNat + titles & captions
+
+ggplot(mqt, aes(x = reorder(iconic_taxon_name, -mqt_count), y = mqt_count, fill = iconic_taxon_name)) +
+  geom_bar(stat = "identity") +
+  theme_minimal() +
+  theme(
+    legend.position = "none",
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    plot.title = element_text(hjust = 0.5)
+  ) +
+  labs(
+    title = "Counts of Taxa",
+    x = "Taxon",
+    y = "Count",
+    caption = "Figure created by Mattea Muscat using data from iNaturalist"
+  ) + 
+  coord_flip()
+
+```
+
+```{r}
+
+#| label: interactive_map
+#| echo: false
+#| message: false
+#| warning: false
+
+
+library(tidyverse)
+library(basemaps)
+library(terra)
+library(terra)
+library(maptiles)
+library(tidyterra)
+library(ggplot2)
+library(tmap)
+library(sf)
+library(dplyr)
+library(mapview)
+library(tmap)
+
+mqt <- read.csv('graphs/mqt_inat.csv')
+
+obs_points <- vect(mqt, geom = c("longitude", "latitude"), crs = "EPSG:4326")
+plot(obs_points)
+
+osm_tiles <- get_tiles(obs_points, provider = "OpenStreetMap") # grabs the open street map basemap, there's other options, too. 
+
+tmap_mode("view") 
+
+m <- tm_shape(obs_points) +
+  tm_dots(fill = "iconic_taxon_name", size = 0.75) +
+  tm_basemap(server = "Esri.WorldTopoMap")
+
+m
+
+```

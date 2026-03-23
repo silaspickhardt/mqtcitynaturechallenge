@@ -1,14 +1,14 @@
-![](images/banner.png)
+![](images/Webslider%20Image%20(22-0313_CNC23_Webslider_230119).jpg)
 
 ## Welcome to the Marquette City Nature Challenge!
 
 #### What is the City Nature Challenge?
 
-It is an event when cities all over the world document their local biodiversity on iNaturalist. In 2024, 690 cities/counties from 51 different countries joined the challenge. This year Marquette will be a part of this amazing event!
+The City Nature Challenge (CNC) is an annual four-day nature census in which participants around the world use biodiversity recording platforms like iNaturalist to document nature in their neighborhoods. These contributions become data to understand and protect nature worldwide. Started in 2016 as a friendly competition between Los Angeles and San Francisco, the CNC has grown into an international event where cities collaborate to find species, collect observations, and connect communities to nature. The Community Science teams at the California Academy of Sciences (CAS) and the Natural History Museum of Los Angeles County (NHM) make up the Global Organizing Team.
 
-#### When is the City Nature Challenge(CNC) in 2025?
+#### When is the City Nature Challenge(CNC) in 2026?
 
-This year, the CNC will run from **April 25-28th!**
+This year, the CNC observation period will be **April 24-27th!** Then we will have until **May 10th** to upload observations and identify organisms.
 
 ## [Participate!](participate.qmd)
 
@@ -18,4 +18,4 @@ Visit the [City Nature Challenge Global Page](https://www.citynaturechallenge.or
 
 [Frequently Asked Questions](pdfs/2025_CNC_FAQ.pdf)
 
-[Description](pdfs/CNC2025_2-Pager.pdf)
+[Description](pdfs/CNC2026%202-Pager%20.pdf)

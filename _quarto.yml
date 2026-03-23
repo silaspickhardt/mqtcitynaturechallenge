@@ -14,7 +14,10 @@ website:
         text: Participate
       - href: events.qmd
         text: Events
-      - about.qmd
+      - href: Past_Years.qmd
+        text: Past Years
+      - href: Partnerships.qmd
+        text: Partnerships
 format:
   html:
     theme: custom
