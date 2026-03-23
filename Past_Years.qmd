@@ -7,8 +7,11 @@ lightbox: true
 
 Picture from last year!
 
-![Observation event with the Conservation Biology class at NMU](images/2025/2025_images/Copy%20of%20Marquette_Michigan_USA_OwenVanAntwerpen.JPG){width="160"}
+![Observation event with the Conservation Biology class at NMU](images/2025/2025_images/Copy%20of%20Marquette_Michigan_USA_OwenVanAntwerpen.JPG){fig-align="center" width="160"}
 
+![Observation event at the Presque Isle Bog](images/2025/2025_images/bog.JPG){fig-align="center" width="160"}
+
+![Observation event at Harlow Lake with the Marquette County Conservation District](images/2025/2025_images/macro.JPG){fig-align="center" width="160"}
 
 ```{r}
 #| label: inat_barchart
