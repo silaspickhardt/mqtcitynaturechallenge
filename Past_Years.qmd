@@ -54,32 +54,39 @@ ggplot(mqt, aes(x = reorder(iconic_taxon_name, -mqt_count), y = mqt_count, fill 
 #| warning: false
 
 
-library(tidyverse)
-library(basemaps)
-library(terra)
-library(terra)
-library(maptiles)
-library(tidyterra)
-library(ggplot2)
-library(tmap)
+
+
 library(sf)
-library(dplyr)
-library(mapview)
-library(tmap)
+library(readr)
+library(leaflet)
 
-mqt <- read.csv('graphs/mqt_inat.csv')
+# read the csv as a tibble (tidyverse dataframe)
+mqt <- read_csv('graphs/mqt_inat.csv')
 
-obs_points <- vect(mqt, geom = c("longitude", "latitude"), crs = "EPSG:4326")
-plot(obs_points)
+# convert the tibble/dataframe to an sf (spatial feature) object with the
+# coords being the lat/long column and the crs defined
+mqt_sf <- st_as_sf(mqt, 
+                   coords = c("longitude", "latitude"), 
+                   crs = 4326)
 
-osm_tiles <- get_tiles(obs_points, provider = "OpenStreetMap") # grabs the open street map basemap, there's other options, too. 
+# note you have to manually create a color palette. leaflet will not generate
+# one for you. the palette argument refers to a predefined color palette
+# see here for more info on this function:
+# https://rstudio.github.io/leaflet/reference/colorNumeric.html
+pal <- colorFactor(palette = "Set1", domain = mqt_sf$iconic_taxon_name)
 
-tmap_mode("view") 
-
-m <- tm_shape(obs_points) +
-  tm_dots(fill = "iconic_taxon_name", size = 0.75) +
-  tm_basemap(server = "Esri.WorldTopoMap")
-
-m
-
+# pass the sf object which has a geometry column to leaflet
+# we need to specify to add circleMarkers for it to plot points
+# for more info go here:
+# https://rstudio.github.io/leaflet/articles/markers.html#circle-markers
+leaflet(mqt_sf) |>
+  addTiles() |>
+  addCircleMarkers(
+    radius = 5,
+    # pass the color palette to the color argument
+    color = ~pal(iconic_taxon_name),
+    stroke = FALSE, 
+    fillOpacity = 0.7,
+    popup = ~paste("Species:", scientific_name)
+)
 ```
