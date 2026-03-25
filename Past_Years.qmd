@@ -2,10 +2,9 @@
 title: "Past Years"
 format: html
 editor: visual
-lightbox: true
 ---
 
-Picture from last year!
+Pictures from last year!
 
 ![Observation event with the Conservation Biology class at NMU.](images/2025/2025_images/Copy%20of%20Marquette_Michigan_USA_OwenVanAntwerpen.JPG){fig-align="center" width="160"}
 
@@ -37,7 +36,7 @@ ggplot(mqt, aes(x = reorder(iconic_taxon_name, -mqt_count), y = mqt_count, fill 
     plot.title = element_text(hjust = 0.5)
   ) +
   labs(
-    title = "Counts of Taxa",
+    title = "Counts of Taxa from the 2025 City Nature Challenge",
     x = "Taxon",
     y = "Count",
     caption = "Figure created by Mattea Muscat using data from iNaturalist"
@@ -49,6 +48,7 @@ ggplot(mqt, aes(x = reorder(iconic_taxon_name, -mqt_count), y = mqt_count, fill 
 ```{r}
 
 #| label: interactive_map
+#| fig-cap: "Observations of species in Marquette County (zoom in and click on observations to see the species name)"
 #| echo: false
 #| message: false
 #| warning: false
