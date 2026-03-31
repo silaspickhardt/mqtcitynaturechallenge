@@ -87,6 +87,6 @@ leaflet(mqt_sf) |>
     color = ~pal(iconic_taxon_name),
     stroke = FALSE, 
     fillOpacity = 0.7,
-    popup = ~paste("Species:", scientific_name)
+    popup = ~paste("Species:", common_name)
 )
 ```

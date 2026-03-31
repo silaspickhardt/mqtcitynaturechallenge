@@ -2,22 +2,23 @@
 title: "Events"
 ---
 
-## **Check back soon for 2026 CNC events!!**
+## 2026 Marquette City Nature Challenge Events
 
-Click on an event to learn more/RSVP(RSVP not required, but is appreciated)
+Click on an event to learn more
 
 | Time | April 24 | April 25 | April 26 | April 27 |
-|--------------|----------------|----------------|--------------|--------------|
+|---------------|---------------|---------------|---------------|---------------|
 | 8 am |  |  |  |  |
 | 9 am |  |  |  |  |
 | 10 am |  |  |  |  |
-| 11 am |  | Mycology Walk |  |  |
-| 12 pm |  |  |  |  |
-| 1 pm |  |  | Hawk Watch |  |
+| 11 am |  |  |  |  |
+| 12 pm |  |  | [Lilly Pond Trail Observation Walk](event_flyers/con1.png) |  |
+| 1 pm |  |  | [Hawk walk](event_flyers/hawk.png) |  |
+|  |  |  |  |  |
 | 2 pm |  |  |  |  |
 | 3 pm |  |  |  |  |
-| 4 pm | Stream Macroinvertebrates with MCCD |  | Lilly Pond Trail Observation Walk |  |
-| 5 pm |  |  |  |  |
-| 6 pm |  | Bog Macroinvertebrates |  |  |
+| 4 pm | [Stream Macroinvertebrates](event_flyers/mccd.png) | [Fungi Walk](event_flyers/fung.png) |  |  |
+| 5 pm | [Plant Walk](event_flyers/mccd.png) |  |  |  |
+| 6 pm |  | [Presque Isle Bog Macroinvertebrates](event_flyers/ent.png) |  |  |
 | 7 pm |  |  |  |  |
-| 8 pm |  | Night Ecology: Moths and Amphibians |  |  |
+| 8 pm |  | [Night Ecology: Moths and Amphibians](event_flyers/night.png) |  |  |
