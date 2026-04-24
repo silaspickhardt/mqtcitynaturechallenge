@@ -7,7 +7,7 @@ title: "Events"
 Click on an event to learn more!
 
 | Time | April 24 | April 25 | April 26 | April 27 |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | 8 am |  |  |  |  |
 | 9 am |  |  |  |  |
 | 10 am |  |  |  |  |
@@ -17,8 +17,8 @@ Click on an event to learn more!
 |  |  |  |  |  |
 | 2 pm |  |  |  |  |
 | 3 pm |  |  |  |  |
-| 4 pm | [Stream Macroinvertebrates with MCCD](event_flyers/mccd.png) | [Fungi Walk](event_flyers/fung.png) |  |  |
-| 5 pm | [Plant Walk with MCCD](event_flyers/mccd.png) |  |  |  |
+| 4 pm | [Stream Macroinvertebrates with MCCD](event_flyers/updated.png) | [Fungi Walk](event_flyers/fung.png) |  |  |
+| 5 pm | [Plant Walk with MCCD](event_flyers/updated.png) |  |  |  |
 | 6 pm |  | [Presque Isle Macroinvertebrates](event_flyers/ent.png) |  |  |
 | 7 pm |  |  |  |  |
 | 8 pm |  | [Night Ecology:Moths and Amphibians](event_flyers/night.png) |  |  |
